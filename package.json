@@ -1,0 +1,19 @@
+{
+  "name": "tercera-entrega",
+  "version": "1.0.0",
+  "description": "Esta es la tercera entrega",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "nodemon",
+    "express"
+  ],
+  "author": "Nicolas Davi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

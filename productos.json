@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "title": "Taladro BD",
+    "description": "Taladro de 13mm",
+    "price": 45000,
+    "thumbnail": "Sin imagen",
+    "code": "BD13MM",
+    "stock": 25
+  },
+  {
+    "id": 1,
+    "title": "Amoladora Skill",
+    "description": "Amoladora 4 1/2'' ",
+    "price": 38500,
+    "thumbnail": "Sin imagen",
+    "code": "AS4",
+    "stock": 13
+  },
+  {
+    "id": 2,
+    "title": "Engrampadora Neumatica",
+    "description": "Engrampadora Duca 11L",
+    "price": 16980,
+    "thumbnail": "Sin imagen",
+    "code": "ED11",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Engletadora Makita",
+    "description": "Engletadora Makita 9'' ",
+    "price": 109860,
+    "thumbnail": "Sin imagen",
+    "code": "EM18PR",
+    "stock": 4
+  },
+  {
+    "id": 4,
+    "title": "Taladro BD",
+    "description": "Taladro de 16mm",
+    "price": 48000,
+    "thumbnail": "Sin imagen",
+    "code": "BD16MM",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "Amoladora BD",
+    "description": "Amoladora 7'' ",
+    "price": 50800,
+    "thumbnail": "Sin imagen",
+    "code": "ABD7",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Sopladora CG",
+    "description": "Sopladora Electrica 800W",
+    "price": 70890,
+    "thumbnail": "Sin imagen",
+    "code": "SE800",
+    "stock": 14
+  },
+  {
+    "id": 7,
+    "title": "Rotomartillo SPL",
+    "description": "Rotomartillo 750N impacto' ",
+    "price": 256000,
+    "thumbnail": "Sin imagen",
+    "code": "RMSPL",
+    "stock": 3
+  },
+  {
+    "id": 8,
+    "title": "Rotomartillo Makita",
+    "description": "Rotomartillo 600N impacto",
+    "price": 200000,
+    "thumbnail": "Sin imagen",
+    "code": "RMMK",
+    "stock": 2
+  },
+  {
+    "id": 9,
+    "title": "Compresor Daewoo",
+    "description": "Compresor Neumatico 500W'' ",
+    "price": 63750,
+    "thumbnail": "Sin imagen",
+    "code": "CD500",
+    "stock": 6
+  }
+]
